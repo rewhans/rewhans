@@ -2,7 +2,7 @@
 
 **Data Analyst** with 20+ years in IT and 7+ years in healthcare — I bridge the gap between clinical operations and data-driven decision making.
 
-Currently completing the **CareerFoundry Data Analytics Immersion** program, with a focus on turning complex operational data into actionable insights for healthcare organizations.
+Currently completing the **Data in Motion Data Analytics** program, with a focus on turning complex operational data into actionable insights for healthcare organizations.
 
 ---
 
