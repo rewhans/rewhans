@@ -1,8 +1,8 @@
 # Hi, I'm Ryan Wick 👋
 
-**Data Analyst** with 20+ years in IT and 7+ years in healthcare — I bridge the gap between clinical operations and data-driven decision making.
+**Data Analyst** with 20+ years in IT across healthcare, government, retail, and military environments — I turn complex operational data into decisions that actually get used.
 
-Currently completing the **Data in Motion Data Analytics** program, with a focus on turning complex operational data into actionable insights for healthcare organizations.
+Completed the **CareerFoundry Data Analytics** program and currently advancing through **Data in Motion's Data Analytics** course.
 
 ---
 
