@@ -1,6 +1,6 @@
 # Hi, I'm Ryan Wick 👋
 
-**Data Analyst** with 20+ years in IT across healthcare, government, retail, and military environments — I turn complex operational data into decisions that actually get used.
+**Data Analyst** with 20+ years in IT across healthcare, government, retail, and military environments. I turn complex operational data into decisions that actually get used.
 
 Completed the **CareerFoundry Data Analytics** program and currently advancing through **Data in Motion's Data Analytics** course.
 
