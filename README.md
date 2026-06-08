@@ -1,6 +1,6 @@
 # Hi, I'm Ryan Wick 👋
 
-**Data Analyst** with 8+ years in healthcare IT — I bridge the gap between clinical operations and data-driven decision making.
+**Data Analyst** with 20+ years in IT and 7+ years in healthcare — I bridge the gap between clinical operations and data-driven decision making.
 
 Currently completing the **CareerFoundry Data Analytics Immersion** program, with a focus on turning complex operational data into actionable insights for healthcare organizations.
 
