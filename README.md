@@ -8,7 +8,7 @@ I turn messy operational data into clear decisions. After 8 years in healthcare 
 
 | Project | What it shows | Links |
 |---|---|---|
-| **NYC Citi Bike Strategic Dashboard** | Demand, station, and weather analysis in an interactive Streamlit app | [Live app](https://nyc-citibike-dashboard-6fgbejampcc6jh2pxt3fj4.streamlit.app/) · [Code](https://github.com/rewhans/NYC-Citibike-Dashboard) |
+| **NYC Citi Bike Strategic Dashboard** | Demand, station, and weather analysis in an interactive Streamlit app | [Live app](https://nyc-citibike-dashboard.streamlit.app/) · [Code](https://github.com/rewhans/NYC-Citibike-Dashboard) |
 | **Global Cybersecurity Threats (2015-2024)** | Regression, K-means clustering, and an executive Tableau storyboard | [Dashboard](https://public.tableau.com/app/profile/ryan.wick4013/viz/Global_Cybersecurity_Threats_2015-2024_Final/GlobalCybersecurityThreats20152024) · [Code](https://github.com/rewhans/Global-Cybersecurity-Threats-Dashboard) |
 | **Rockbuster SQL Business Analysis** | SQL (JOINs, subqueries, CTEs) on a PostgreSQL rental database | [Code](https://github.com/rewhans/Rockbuster-SQL-Business-Analysis) |
 | **Instacart Customer Segmentation** | EDA and customer segmentation on 3.4M orders | [Code](https://github.com/rewhans/Instacart-Customer-Segmentation-Analysis) |
